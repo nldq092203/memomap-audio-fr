@@ -1,1 +1,653 @@
-{"version": "2025-W50", "generated_at": "2025-12-14T21:36:56.799378+00:00", "exercise_count": 12, "exercises": [{"id": "phone_0620015331_customer_support_fr-FR-DeniseNeural", "number_type": "PHONE", "digits": "0620015331", "spoken_chunks": ["zéro six", "vingt", "zéro un", "cinquante-trois", "trente-et-un"], "sentence": "Vous pouvez me joindre au zéro six vingt zéro un cinquante-trois trente-et-un.", "audio_ref": "1J9rq5LvTsfy53k2fEEP2TyW60ufvaEGa", "blueprint_id": "customer_support", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-DeniseNeural"}, {"id": "phone_0605467949_professional_contact_fr-FR-DeniseNeural", "number_type": "PHONE", "digits": "0605467949", "spoken_chunks": ["zéro six", "zéro cinq", "quarante-six", "soixante-dix-neuf", "quarante-neuf"], "sentence": "Mon numéro de portable est le zéro six … zéro cinq … quarante-six … soixante-dix-neuf … quarante-neuf.", "audio_ref": "1PnDxLJNcX8kpx_U66DlIsLuK6uNKMNFb", "blueprint_id": "professional_contact", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-DeniseNeural"}, {"id": "phone_0644033707_missed_call_message_fr-FR-EloiseNeural", "number_type": "PHONE", "digits": "0644033707", "spoken_chunks": ["zéro six", "quarante-quatre", "zéro trois", "trente-sept", "zéro sept"], "sentence": "Vous pouvez me rappeler au zéro six quarante-quatre zéro trois trente-sept zéro sept.", "audio_ref": "1qZ-ImH1dtqfj8AgeeWvxZUwtdviKP-6p", "blueprint_id": "missed_call_message", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-EloiseNeural"}, {"id": "phone_0668845715_missed_call_message_fr-FR-AlainNeural", "number_type": "PHONE", "digits": "0668845715", "spoken_chunks": ["zéro six", "soixante-huit", "quatre-vingt-quatre", "cinquante-sept", "quinze"], "sentence": "Mon numéro est le zéro six … soixante-huit … quatre-vingt-quatre … cinquante-sept … quinze.", "audio_ref": "1m32sL9yVPIYCiPQR-K3mWAQyTG8j7q4m", "blueprint_id": "missed_call_message", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-AlainNeural"}, {"id": "phone_0649490557_wrong_number_fr-FR-HenriNeural", "number_type": "PHONE", "digits": "0649490557", "spoken_chunks": ["zéro six", "quarante-neuf", "quarante-neuf", "zéro cinq", "cinquante-sept"], "sentence": "Ah non, je me suis trompé, j'ai fait le zéro six quarante-neuf quarante-neuf zéro cinq cinquante-sept.", "audio_ref": "112XOKaEYR0tUlZ8MM8v51fiNr-h3ZNEN", "blueprint_id": "wrong_number", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-HenriNeural"}, {"id": "year_1991_movie_release_year_fr-FR-EloiseNeural", "number_type": "YEAR", "digits": "1991", "spoken_chunks": ["mille dix-neuf cent", "quatre-vingt-onze"], "sentence": "Il est sorti en mille dix-neuf cent … quatre-vingt-onze.", "audio_ref": "1ZRauFMJY0xYkoUm92lHA-Th7XPAJ2C0Q", "blueprint_id": "movie_release_year", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-EloiseNeural"}, {"id": "year_1924_movie_release_year_fr-FR-DeniseNeural", "number_type": "YEAR", "digits": "1924", "spoken_chunks": ["mille dix-neuf cent", "vingt-quatre"], "sentence": "Tiens, le film est sorti en mille dix-neuf cent vingt-quatre.", "audio_ref": "1lmpk7rQpS0vU76pMHnbc8MQTDN0r0X6V", "blueprint_id": "movie_release_year", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-DeniseNeural"}, {"id": "year_1966_movie_release_year_fr-FR-DeniseNeural", "number_type": "YEAR", "digits": "1966", "spoken_chunks": ["mille dix-neuf cent", "soixante-six"], "sentence": "Il est sorti en mille dix-neuf cent … soixante-six.", "audio_ref": "1lzZYwLayyDf8I53xoIpM0xljm3ZTQe35", "blueprint_id": "movie_release_year", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-DeniseNeural"}, {"id": "year_1909_movie_release_year_fr-FR-AlainNeural", "number_type": "YEAR", "digits": "1909", "spoken_chunks": ["mille dix-neuf cent", "neuf"], "sentence": "Ah non, ce film, il est sorti en mille dix-neuf cent neuf.", "audio_ref": "1ThUyZ_t6fuH-EvFPrUyW7FiZtj1Bq0o6", "blueprint_id": "movie_release_year", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-AlainNeural"}, {"id": "price_4431.70_restaurant_bill_fr-FR-EloiseNeural", "number_type": "PRICE", "digits": "4431.70", "spoken_chunks": ["quatre mille quatre cent trente-et-un euros", "soixante-dix"], "sentence": "Ça fait quatre mille quatre cent trente-et-un euros soixante-dix.", "audio_ref": "1egyJL688KLviuxCEqr4n7UtIUatUDiAz", "blueprint_id": "restaurant_bill", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-EloiseNeural"}, {"id": "price_2617.66_discount_price_fr-FR-DeniseNeural", "number_type": "PRICE", "digits": "2617.66", "spoken_chunks": ["deux mille six cent dix-sept euros", "soixante-six"], "sentence": "C'est une bonne affaire, ça fait seulement deux mille six cent dix-sept euros soixante-six.", "audio_ref": "1YEl0GMgBh13aBKoVjVthD-aAS0_FyHiN", "blueprint_id": "discount_price", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-DeniseNeural"}, {"id": "price_81.66_online_order_total_fr-FR-HenriNeural", "number_type": "PRICE", "digits": "81.66", "spoken_chunks": ["quatre-vingt-un euros", "soixante-six"], "sentence": "Le total est de quatre-vingt-un euros … soixante-six.", "audio_ref": "1FDCy5mK03J33ELqJUjMMBhKXM3mB2aCc", "blueprint_id": "online_order_total", "version_tag": "2025-W50", "created_at": "2025-12-14T21:34:21.831422Z", "voice": "fr-FR-HenriNeural"}], "cleaned_at": "2025-12-21T21:50:01.435509+00:00"}
+{
+    "version": "2025-W50",
+    "generated_at": "2025-12-14T21:36:56.799378+00:00",
+    "exercise_count": 12,
+    "exercises": [
+        {
+            "id": "phone_0620015331_customer_support_fr-FR-DeniseNeural",
+            "number_type": "PHONE",
+            "digits": "0620015331",
+            "spoken_chunks": [
+                "zéro six",
+                "vingt",
+                "zéro un",
+                "cinquante-trois",
+                "trente-et-un"
+            ],
+            "sentence": "Vous pouvez me joindre au zéro six vingt zéro un cinquante-trois trente-et-un.",
+            "audio_ref": "fr/2025-W50/audio/phone_0620015331_customer_support_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "customer_support",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "phone_0605467949_professional_contact_fr-FR-DeniseNeural",
+            "number_type": "PHONE",
+            "digits": "0605467949",
+            "spoken_chunks": [
+                "zéro six",
+                "zéro cinq",
+                "quarante-six",
+                "soixante-dix-neuf",
+                "quarante-neuf"
+            ],
+            "sentence": "Mon numéro de portable est le zéro six … zéro cinq … quarante-six … soixante-dix-neuf … quarante-neuf.",
+            "audio_ref": "fr/2025-W50/audio/phone_0605467949_professional_contact_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "professional_contact",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "phone_0644033707_missed_call_message_fr-FR-EloiseNeural",
+            "number_type": "PHONE",
+            "digits": "0644033707",
+            "spoken_chunks": [
+                "zéro six",
+                "quarante-quatre",
+                "zéro trois",
+                "trente-sept",
+                "zéro sept"
+            ],
+            "sentence": "Vous pouvez me rappeler au zéro six quarante-quatre zéro trois trente-sept zéro sept.",
+            "audio_ref": "fr/2025-W50/audio/phone_0644033707_missed_call_message_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "missed_call_message",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "phone_0668845715_missed_call_message_fr-FR-AlainNeural",
+            "number_type": "PHONE",
+            "digits": "0668845715",
+            "spoken_chunks": [
+                "zéro six",
+                "soixante-huit",
+                "quatre-vingt-quatre",
+                "cinquante-sept",
+                "quinze"
+            ],
+            "sentence": "Mon numéro est le zéro six … soixante-huit … quatre-vingt-quatre … cinquante-sept … quinze.",
+            "audio_ref": "fr/2025-W50/audio/phone_0668845715_missed_call_message_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "missed_call_message",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "phone_0649490557_wrong_number_fr-FR-HenriNeural",
+            "number_type": "PHONE",
+            "digits": "0649490557",
+            "spoken_chunks": [
+                "zéro six",
+                "quarante-neuf",
+                "quarante-neuf",
+                "zéro cinq",
+                "cinquante-sept"
+            ],
+            "sentence": "Ah non, je me suis trompé, j'ai fait le zéro six quarante-neuf quarante-neuf zéro cinq cinquante-sept.",
+            "audio_ref": "fr/2025-W50/audio/phone_0649490557_wrong_number_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "wrong_number",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "year_1991_movie_release_year_fr-FR-EloiseNeural",
+            "number_type": "YEAR",
+            "digits": "1991",
+            "spoken_chunks": [
+                "mille dix-neuf cent",
+                "quatre-vingt-onze"
+            ],
+            "sentence": "Il est sorti en mille dix-neuf cent … quatre-vingt-onze.",
+            "audio_ref": "fr/2025-W50/audio/year_1991_movie_release_year_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "movie_release_year",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "year_1924_movie_release_year_fr-FR-DeniseNeural",
+            "number_type": "YEAR",
+            "digits": "1924",
+            "spoken_chunks": [
+                "mille dix-neuf cent",
+                "vingt-quatre"
+            ],
+            "sentence": "Tiens, le film est sorti en mille dix-neuf cent vingt-quatre.",
+            "audio_ref": "fr/2025-W50/audio/year_1924_movie_release_year_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "movie_release_year",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "year_1966_movie_release_year_fr-FR-DeniseNeural",
+            "number_type": "YEAR",
+            "digits": "1966",
+            "spoken_chunks": [
+                "mille dix-neuf cent",
+                "soixante-six"
+            ],
+            "sentence": "Il est sorti en mille dix-neuf cent … soixante-six.",
+            "audio_ref": "fr/2025-W50/audio/year_1966_movie_release_year_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "movie_release_year",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "year_1909_movie_release_year_fr-FR-AlainNeural",
+            "number_type": "YEAR",
+            "digits": "1909",
+            "spoken_chunks": [
+                "mille dix-neuf cent",
+                "neuf"
+            ],
+            "sentence": "Ah non, ce film, il est sorti en mille dix-neuf cent neuf.",
+            "audio_ref": "fr/2025-W50/audio/year_1909_movie_release_year_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "movie_release_year",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "price_4431.70_restaurant_bill_fr-FR-EloiseNeural",
+            "number_type": "PRICE",
+            "digits": "4431.70",
+            "spoken_chunks": [
+                "quatre mille quatre cent trente-et-un euros",
+                "soixante-dix"
+            ],
+            "sentence": "Ça fait quatre mille quatre cent trente-et-un euros soixante-dix.",
+            "audio_ref": "fr/2025-W50/audio/price_4431.70_restaurant_bill_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "restaurant_bill",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "price_2617.66_discount_price_fr-FR-DeniseNeural",
+            "number_type": "PRICE",
+            "digits": "2617.66",
+            "spoken_chunks": [
+                "deux mille six cent dix-sept euros",
+                "soixante-six"
+            ],
+            "sentence": "C'est une bonne affaire, ça fait seulement deux mille six cent dix-sept euros soixante-six.",
+            "audio_ref": "fr/2025-W50/audio/price_2617.66_discount_price_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "discount_price",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "price_81.66_online_order_total_fr-FR-HenriNeural",
+            "number_type": "PRICE",
+            "digits": "81.66",
+            "spoken_chunks": [
+                "quatre-vingt-un euros",
+                "soixante-six"
+            ],
+            "sentence": "Le total est de quatre-vingt-un euros … soixante-six.",
+            "audio_ref": "fr/2025-W50/audio/price_81.66_online_order_total_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "online_order_total",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "phone_0606663530_missed_call_message_fr-FR-HenriNeural",
+            "number_type": "PHONE",
+            "digits": "0606663530",
+            "spoken_chunks": [
+                "zéro six",
+                "zéro six",
+                "soixante-six",
+                "trente-cinq",
+                "trente"
+            ],
+            "sentence": "Laissez un message au zéro six zéro six six six trois cinq trente.",
+            "audio_ref": "fr/2025-W50/audio/phone_0606663530_missed_call_message_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "missed_call_message",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "phone_0621014612_missed_call_message_fr-FR-AlainNeural",
+            "number_type": "PHONE",
+            "digits": "0621014612",
+            "spoken_chunks": [
+                "zéro six",
+                "vingt-et-un",
+                "zéro un",
+                "quarante-six",
+                "douze"
+            ],
+            "sentence": "Vous pouvez me rappeler au zéro six vingt-et-un zéro un quarante-six douze.",
+            "audio_ref": "fr/2025-W50/audio/phone_0621014612_missed_call_message_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "missed_call_message",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "phone_0624452854_professional_contact_fr-FR-AlainNeural",
+            "number_type": "PHONE",
+            "digits": "0624452854",
+            "spoken_chunks": [
+                "zéro six",
+                "vingt-quatre",
+                "quarante-cinq",
+                "vingt-huit",
+                "cinquante-quatre"
+            ],
+            "sentence": "Vous pouvez me joindre au zéro six … vingt-quatre … quarante-cinq … vingt-huit … cinquante-quatre.",
+            "audio_ref": "fr/2025-W50/audio/phone_0624452854_professional_contact_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "professional_contact",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "phone_0627544150_missed_call_message",
+            "number_type": "PHONE",
+            "digits": "0627544150",
+            "spoken_chunks": [
+                "zéro six",
+                "vingt-sept",
+                "cinquante-quatre",
+                "quarante-et-un",
+                "cinquante"
+            ],
+            "sentence": "Laissez un message au zéro six vingt-sept cinquante-quatre quarante-et-un cinquante, s'il vous plaît.",
+            "audio_ref": "fr/2025-W50/audio/phone_0627544150_missed_call_message_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "missed_call_message",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "price_1943.16_shop_price_fr-FR-DeniseNeural",
+            "number_type": "PHONE",
+            "digits": "1943,16",
+            "spoken_chunks": [
+                "mille neuf cent quarante-trois euros",
+                "seize"
+            ],
+            "sentence": "C'est mille neuf cent quarante-trois euros seize.",
+            "audio_ref": "fr/2025-W50/audio/price_1943.16_shop_price_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "shop_price",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "phone_0632244266_casual_phone_call",
+            "number_type": "PHONE",
+            "digits": "0632244266",
+            "spoken_chunks": [
+                "zéro six",
+                "trente-deux",
+                "vingt-quatre",
+                "quarante-deux",
+                "soixante-six"
+            ],
+            "sentence": "Mon numéro c'est zéro six trente-deux vingt-quatre quarante-deux soixante-six.",
+            "audio_ref": "fr/2025-W50/audio/phone_0632244266_casual_phone_call_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "casual_phone_call",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "phone_0656024729_missed_call_message_fr-FR-HenriNeural",
+            "number_type": "PHONE",
+            "digits": "0656024729",
+            "spoken_chunks": [
+                "zéro six",
+                "cinquante-six",
+                "zéro deux",
+                "quarante-sept",
+                "vingt-neuf"
+            ],
+            "sentence": "Laissez-moi un message au zéro six cinquante-six zéro deux quarante-sept vingt-neuf.",
+            "audio_ref": "fr/2025-W50/audio/phone_0656024729_missed_call_message_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "missed_call_message",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "phone_0672069103_missed_call_message",
+            "number_type": "PHONE",
+            "digits": "0672069103",
+            "spoken_chunks": [
+                "zéro six",
+                "soixante-douze",
+                "zéro six",
+                "quatre-vingt-onze",
+                "zéro trois"
+            ],
+            "sentence": "Laissez-moi votre numéro. C'est zéro six soixante-douze zéro deux zéro six quatre-vingt-onze zéro trois.",
+            "audio_ref": "fr/2025-W50/audio/phone_0672069103_missed_call_message_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "missed_call_message",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "phone_0674517624_missed_call_message",
+            "number_type": "PHONE",
+            "digits": "0674517624",
+            "spoken_chunks": [
+                "zéro six",
+                "soixante-quatre",
+                "cinquante-un",
+                "soixante-seize",
+                "vingt-quatre"
+            ],
+            "sentence": "Vous pouvez me rappeler au zéro six soixante-quatre cinquante-un soixante-seize vingt-quatre.",
+            "audio_ref": "fr/2025-W50/audio/phone_0674517624_missed_call_message_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "missed_call_message",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "phone_0680011629_casual_phone_call_fr-FR-EloiseNeural",
+            "number_type": "PHONE",
+            "digits": "0680011629",
+            "spoken_chunks": [
+                "zéro six",
+                "quatre-vingt",
+                "zéro un",
+                "seize",
+                "vingt-neuf"
+            ],
+            "sentence": "Alors, mon numéro c'est zéro six quatre-vingt zéro un seize vingt-neuf.",
+            "audio_ref": "fr/2025-W50/audio/phone_0680011629_casual_phone_call_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "casual_phone_call",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "phone_0690481432_casual_phone_call_fr-FR-HenriNeural",
+            "number_type": "PHONE",
+            "digits": "0690481432",
+            "spoken_chunks": [
+                "zéro six",
+                "quatre-vingt-dix",
+                "quatre-huit",
+                "quatorze",
+                "trente-deux"
+            ],
+            "sentence": "Ok, voici mon numéro : zéro six quatre-vingt-dix quatre-huit quatorze trente-deux.",
+            "audio_ref": "fr/2025-W50/audio/phone_0690481432_casual_phone_call_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "casual_phone_call",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "phone_0696403104_professional_contact",
+            "number_type": "PHONE",
+            "digits": "0696403104",
+            "spoken_chunks": [
+                "zéro six",
+                "quatre-vingt-seize",
+                "quarante",
+                "trente-et-un",
+                "zéro quatre"
+            ],
+            "sentence": "Mon numéro c'est zéro six quatre-vingt-seize quarante trente-et-un zéro quatre.",
+            "audio_ref": "fr/2025-W50/audio/phone_0696403104_professional_contact_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "professional_contact",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "price_810.18_shop_price",
+            "number_type": "PRICE",
+            "digits": "810,18",
+            "spoken_chunks": [
+                "huit cent dix euros",
+                "dix-huit"
+            ],
+            "sentence": "C'est huit cent dix euros dix-huit.",
+            "audio_ref": "fr/2025-W50/audio/price_810.18_shop_price_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "shop_price",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "price_842.15_service_fee",
+            "number_type": "PRICE",
+            "digits": "842,15",
+            "spoken_chunks": [
+                "huit cent quarante-deux euros",
+                "quinze"
+            ],
+            "sentence": "Le total du service s'élève à huit cent quarante-deux euros quinze.",
+            "audio_ref": "fr/2025-W50/audio/price_842.15_service_fee_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "service_fee",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "price_943.65_service_fee_fr-FR-AlainNeural",
+            "number_type": "PRICE",
+            "digits": "943,65",
+            "spoken_chunks": [
+                "neuf cent quarante-trois euros",
+                "soixante-cinq"
+            ],
+            "sentence": "Le montant total de la facture s'élève à neuf cent quarante-trois euros soixante-cinq.",
+            "audio_ref": "1VwGg3mN2sJ8_m8x06l_1a6wjXqo7Uq3s",
+            "blueprint_id": "service_fee",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "price_1722.06_shop_price_fr-FR-HenriNeural",
+            "number_type": "PRICE",
+            "digits": "1722,06",
+            "spoken_chunks": [
+                "mille sept cent vingt-deux euros",
+                "six"
+            ],
+            "sentence": "C'est mille sept cent vingt-deux euros six.",
+            "audio_ref": "1gZJ2p5Q6S0vU76pMHnbc8MQTDN0r0X6V",
+            "blueprint_id": "shop_price",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "price_1778.18_service_fee_fr-FR-EloiseNeural",
+            "number_type": "PRICE",
+            "digits": "1778,18",
+            "spoken_chunks": [
+                "mille sept cent soixante-dix-huit euros",
+                "dix-huit"
+            ],
+            "sentence": "C'est mille sept cent soixante-dix-huit euros dix-huit.",
+            "audio_ref": "1gZJ2p5Q6S0vU76pMHnbc8MQTDN0r0X6V",
+            "blueprint_id": "service_fee",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "price_2089.40_service_fee",
+            "number_type": "PRICE",
+            "digits": "2089,40",
+            "spoken_chunks": [
+                "deux mille quatre-vingt-neuf euros",
+                "quarante"
+            ],
+            "sentence": "Le montant total s'èleve à deux mille quatre-vingt-neuf euros quarante.",
+            "audio_ref": "fr/2025-W50/audio/price_2089.40_service_fee_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "service_fee",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "price_2595.48_shop_price_fr-FR-DeniseNeural",
+            "number_type": "PRICE",
+            "digits": "2595,48",
+            "spoken_chunks": [
+                "deux mille cinq cent quatre-vingt-quinze euros",
+                "quatre-huit"
+            ],
+            "sentence": "ça fait deux mille cinq cent quatre-vingt-quinze euros quatre-huit.",
+            "audio_ref": "fr/2025-W50/audio/price_2595.48_shop_price_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "shop_price",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "price_3354.34_shop_price_fr-FR-HenriNeural",
+            "number_type": "PRICE",
+            "digits": "3354,34",
+            "spoken_chunks": [
+                "trois mille trois cent cinquante-quatre euros",
+                "quatre-huit"
+            ],
+            "sentence": "C'est trois mille trois cent cinquante-quatre euros quatre-huit.",
+            "audio_ref": "fr/2025-W50/audio/price_3354.34_shop_price_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "shop_price",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "price_4482.24_shop_price",
+            "number_type": "PRICE",
+            "digits": "4482,24",
+            "spoken_chunks": [
+                "quatre mille quatre cent quatre-vingt-deux euros",
+                "quatre-huit"
+            ],
+            "sentence": "ça fait quatre mille quatre cent quatre-vingt-deux euros quatre-huit.",
+            "audio_ref": "fr/2025-W50/audio/price_4482.24_shop_price_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "shop_price",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "year_1942_historical_reference_fr-FR-EloiseNeural",
+            "number_type": "YEAR",
+            "digits": "1942",
+            "spoken_chunks": [
+                "mille neuf cent quarante-deux"
+            ],
+            "sentence": "C'est une période intéressant, particulièrement en mille neuf cent quarante-deux.",
+            "audio_ref": "fr/2025-W50/audio/year_1942_historical_reference_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "historical_reference",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "year_1946_biography_year_fr-FR-DeniseNeural",
+            "number_type": "YEAR",
+            "digits": "1946",
+            "spoken_chunks": [
+                "mille dix-neuf cent quarante-six"
+            ],
+            "sentence": "Il est né en mille dix-neuf cent quarante-six.",
+            "audio_ref": "fr/2025-W50/audio/year_1946_biography_year_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "biography_year",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "year_1961_historical_reference_fr-FR-EloiseNeural",
+            "number_type": "YEAR",
+            "digits": "1961",
+            "spoken_chunks": [
+                "mille dix-neuf cent",
+                "soixante-un"
+            ],
+            "sentence": "C'est l'année mille neuf cent soixante-un qui est mentionnée.",
+            "audio_ref": "fr/2025-W50/audio/year_1961_historical_reference_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "historical_reference",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "year_1963_biography_year_fr-FR-AlainNeural",
+            "number_type": "YEAR",
+            "digits": "1963 ",
+            "spoken_chunks": [
+                "mille dix-neuf cent",
+                "soixante-trois"
+            ],
+            "sentence": "Il est né en mille dix-neuf cent soixante-trois.",
+            "audio_ref": "fr/2025-W50/audio/year_1963_biography_year_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "biography_year",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "year_1967_biography_year_fr-FR-DeniseNeural",
+            "number_type": "YEAR",
+            "digits": "1967",
+            "spoken_chunks": [
+                "mille dix-neuf cent",
+                "soixante-sept"
+            ],
+            "sentence": "Sa date de naissance figure c'est un document réference en  mille dix-neuf cent soixante-sept.",
+            "audio_ref": "fr/2025-W50/audio/year_1967_biography_year_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "biography_year",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "year_1991_movie_release_year_fr-FR-EloiseNeural",
+            "number_type": "YEAR",
+            "digits": "1991",
+            "spoken_chunks": [
+                "mille dix-neuf cent",
+                "quatre-vingt-onze"
+            ],
+            "sentence": "Il est sorti en mille dix-neuf cent … quatre-vingt-onze.",
+            "audio_ref": "fr/2025-W50/audio/year_1991_movie_release_year_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "movie_release_year",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-14T21:34:21.831422Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "year_1975_historical_reference_fr-FR-HenriNeural",
+            "number_type": "YEAR",
+            "digits": "1975 ",
+            "spoken_chunks": [
+                "mille dix-neuf cent",
+                "soixante-quinze"
+            ],
+            "sentence": "Le traité a été signé en mille dix-neuf cent soixante-quinze.",
+            "audio_ref": "fr/2025-W50/audio/year_1975_historical_reference_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "historical_reference",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T15:15:00.000000Z",
+            "voice": "fr-FR-HenriNeural"
+        }
+    ]
+}
