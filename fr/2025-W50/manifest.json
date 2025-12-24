@@ -1,7 +1,7 @@
 {
     "version": "2025-W50",
-    "generated_at": "2025-12-14T21:36:56.799378+00:00",
-    "exercise_count": 12,
+    "generated_at": "2025-12-24T08:21:46.029890+00:00",
+    "exercise_count": 29,
     "exercises": [
         {
             "id": "phone_0620015331_customer_support_fr-FR-DeniseNeural",
@@ -92,66 +92,6 @@
             "version_tag": "2025-W50",
             "created_at": "2025-12-14T21:34:21.831422Z",
             "voice": "fr-FR-HenriNeural"
-        },
-        {
-            "id": "year_1991_movie_release_year_fr-FR-EloiseNeural",
-            "number_type": "YEAR",
-            "digits": "1991",
-            "spoken_chunks": [
-                "mille dix-neuf cent",
-                "quatre-vingt-onze"
-            ],
-            "sentence": "Il est sorti en mille dix-neuf cent … quatre-vingt-onze.",
-            "audio_ref": "fr/2025-W50/audio/year_1991_movie_release_year_fr-FR-EloiseNeural.mp3",
-            "blueprint_id": "movie_release_year",
-            "version_tag": "2025-W50",
-            "created_at": "2025-12-14T21:34:21.831422Z",
-            "voice": "fr-FR-EloiseNeural"
-        },
-        {
-            "id": "year_1924_movie_release_year_fr-FR-DeniseNeural",
-            "number_type": "YEAR",
-            "digits": "1924",
-            "spoken_chunks": [
-                "mille dix-neuf cent",
-                "vingt-quatre"
-            ],
-            "sentence": "Tiens, le film est sorti en mille dix-neuf cent vingt-quatre.",
-            "audio_ref": "fr/2025-W50/audio/year_1924_movie_release_year_fr-FR-DeniseNeural.mp3",
-            "blueprint_id": "movie_release_year",
-            "version_tag": "2025-W50",
-            "created_at": "2025-12-14T21:34:21.831422Z",
-            "voice": "fr-FR-DeniseNeural"
-        },
-        {
-            "id": "year_1966_movie_release_year_fr-FR-DeniseNeural",
-            "number_type": "YEAR",
-            "digits": "1966",
-            "spoken_chunks": [
-                "mille dix-neuf cent",
-                "soixante-six"
-            ],
-            "sentence": "Il est sorti en mille dix-neuf cent … soixante-six.",
-            "audio_ref": "fr/2025-W50/audio/year_1966_movie_release_year_fr-FR-DeniseNeural.mp3",
-            "blueprint_id": "movie_release_year",
-            "version_tag": "2025-W50",
-            "created_at": "2025-12-14T21:34:21.831422Z",
-            "voice": "fr-FR-DeniseNeural"
-        },
-        {
-            "id": "year_1909_movie_release_year_fr-FR-AlainNeural",
-            "number_type": "YEAR",
-            "digits": "1909",
-            "spoken_chunks": [
-                "mille dix-neuf cent",
-                "neuf"
-            ],
-            "sentence": "Ah non, ce film, il est sorti en mille dix-neuf cent neuf.",
-            "audio_ref": "fr/2025-W50/audio/year_1909_movie_release_year_fr-FR-AlainNeural.mp3",
-            "blueprint_id": "movie_release_year",
-            "version_tag": "2025-W50",
-            "created_at": "2025-12-14T21:34:21.831422Z",
-            "voice": "fr-FR-AlainNeural"
         },
         {
             "id": "price_4431.70_restaurant_bill_fr-FR-EloiseNeural",
@@ -547,107 +487,690 @@
             "voice": "fr-FR-HenriNeural"
         },
         {
-            "id": "year_1942_historical_reference_fr-FR-EloiseNeural",
+            "id": "year_1972_school_graduation_year_fr-FR-HenriNeural",
             "number_type": "YEAR",
-            "digits": "1942",
+            "digits": "1972",
             "spoken_chunks": [
-                "mille neuf cent quarante-deux"
+                "mille neuf cent",
+                "soixante-douze"
             ],
-            "sentence": "C'est une période intéressant, particulièrement en mille neuf cent quarante-deux.",
-            "audio_ref": "fr/2025-W50/audio/year_1942_historical_reference_fr-FR-EloiseNeural.mp3",
-            "blueprint_id": "historical_reference",
+            "sentence": "Elle a obtenu son diplôme en mille neuf cent soixante-douze.",
+            "audio_ref": "fr/2025-W50/audio/year_1972_school_graduation_year_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "school_graduation_year",
             "version_tag": "2025-W50",
-            "created_at": "2025-12-14T21:34:21.831422Z",
-            "voice": "fr-FR-EloiseNeural"
+            "created_at": "2025-12-23T20:56:42.574234Z",
+            "voice": "fr-FR-HenriNeural"
         },
         {
-            "id": "year_1946_biography_year_fr-FR-DeniseNeural",
+            "id": "year_1987_school_graduation_year_fr-FR-DeniseNeural",
             "number_type": "YEAR",
-            "digits": "1946",
+            "digits": "1987",
             "spoken_chunks": [
-                "mille dix-neuf cent quarante-six"
+                "mille neuf cent",
+                "quatre-vingt-sept"
             ],
-            "sentence": "Il est né en mille dix-neuf cent quarante-six.",
-            "audio_ref": "fr/2025-W50/audio/year_1946_biography_year_fr-FR-DeniseNeural.mp3",
-            "blueprint_id": "biography_year",
+            "sentence": "J'ai obtenu mon diplôme en mille neuf cent quatre-vingt-sept.",
+            "audio_ref": "fr/2025-W50/audio/year_1987_school_graduation_year_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "school_graduation_year",
             "version_tag": "2025-W50",
-            "created_at": "2025-12-14T21:34:21.831422Z",
+            "created_at": "2025-12-23T20:56:42.574234Z",
             "voice": "fr-FR-DeniseNeural"
         },
         {
-            "id": "year_1961_historical_reference_fr-FR-EloiseNeural",
+            "id": "year_1989_school_graduation_year_fr-FR-AlainNeural",
             "number_type": "YEAR",
-            "digits": "1961",
+            "digits": "1989",
             "spoken_chunks": [
-                "mille dix-neuf cent",
-                "soixante-un"
+                "mille neuf cent",
+                "quatre-vingt-neuf"
             ],
-            "sentence": "C'est l'année mille neuf cent soixante-un qui est mentionnée.",
-            "audio_ref": "fr/2025-W50/audio/year_1961_historical_reference_fr-FR-EloiseNeural.mp3",
-            "blueprint_id": "historical_reference",
+            "sentence": "J'ai obtenu mon diplôme en mille neuf cent quatre-vingt-neuf.",
+            "audio_ref": "fr/2025-W50/audio/year_1989_school_graduation_year_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "school_graduation_year",
             "version_tag": "2025-W50",
-            "created_at": "2025-12-14T21:34:21.831422Z",
-            "voice": "fr-FR-EloiseNeural"
-        },
-        {
-            "id": "year_1963_biography_year_fr-FR-AlainNeural",
-            "number_type": "YEAR",
-            "digits": "1963 ",
-            "spoken_chunks": [
-                "mille dix-neuf cent",
-                "soixante-trois"
-            ],
-            "sentence": "Il est né en mille dix-neuf cent soixante-trois.",
-            "audio_ref": "fr/2025-W50/audio/year_1963_biography_year_fr-FR-AlainNeural.mp3",
-            "blueprint_id": "biography_year",
-            "version_tag": "2025-W50",
-            "created_at": "2025-12-14T21:34:21.831422Z",
+            "created_at": "2025-12-23T20:56:42.574234Z",
             "voice": "fr-FR-AlainNeural"
         },
         {
-            "id": "year_1967_biography_year_fr-FR-DeniseNeural",
+            "id": "year_1960_company_founding_year_fr-FR-HenriNeural",
             "number_type": "YEAR",
-            "digits": "1967",
+            "digits": "1960",
             "spoken_chunks": [
-                "mille dix-neuf cent",
-                "soixante-sept"
+                "mille neuf cent",
+                "soixante"
             ],
-            "sentence": "Sa date de naissance figure c'est un document réference en  mille dix-neuf cent soixante-sept.",
-            "audio_ref": "fr/2025-W50/audio/year_1967_biography_year_fr-FR-DeniseNeural.mp3",
-            "blueprint_id": "biography_year",
+            "sentence": "La société a été fondée en mille neuf cent soixante.",
+            "audio_ref": "fr/2025-W50/audio/year_1960_company_founding_year_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "company_founding_year",
             "version_tag": "2025-W50",
-            "created_at": "2025-12-14T21:34:21.831422Z",
-            "voice": "fr-FR-DeniseNeural"
+            "created_at": "2025-12-23T20:56:42.574234Z",
+            "voice": "fr-FR-HenriNeural"
         },
         {
-            "id": "year_1991_movie_release_year_fr-FR-EloiseNeural",
+            "id": "year_1904_historical_reference_fr-FR-EloiseNeural",
             "number_type": "YEAR",
-            "digits": "1991",
+            "digits": "1904",
             "spoken_chunks": [
-                "mille dix-neuf cent",
-                "quatre-vingt-onze"
+                "mille neuf cent",
+                "quatre"
             ],
-            "sentence": "Il est sorti en mille dix-neuf cent … quatre-vingt-onze.",
-            "audio_ref": "fr/2025-W50/audio/year_1991_movie_release_year_fr-FR-EloiseNeural.mp3",
-            "blueprint_id": "movie_release_year",
+            "sentence": "Il s'est passé un événement marquant en mille neuf cent quatre.",
+            "audio_ref": "fr/2025-W50/audio/year_1904_historical_reference_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "historical_reference",
             "version_tag": "2025-W50",
-            "created_at": "2025-12-14T21:34:21.831422Z",
+            "created_at": "2025-12-23T21:02:02.628296Z",
             "voice": "fr-FR-EloiseNeural"
         },
         {
-            "id": "year_1975_historical_reference_fr-FR-HenriNeural",
+            "id": "year_1980_biography_year_fr-FR-HenriNeural",
             "number_type": "YEAR",
-            "digits": "1975 ",
+            "digits": "1980",
             "spoken_chunks": [
-                "mille dix-neuf cent",
-                "soixante-quinze"
+                "mille neuf cent",
+                "quatre-vingts"
             ],
-            "sentence": "Le traité a été signé en mille dix-neuf cent soixante-quinze.",
-            "audio_ref": "fr/2025-W50/audio/year_1975_historical_reference_fr-FR-HenriNeural.mp3",
+            "sentence": "Elle est née en mille neuf cent quatre-vingts.",
+            "audio_ref": "fr/2025-W50/audio/year_1980_biography_year_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "biography_year",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:02:02.628296Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "year_1955_school_graduation_year_fr-FR-AlainNeural",
+            "number_type": "YEAR",
+            "digits": "1955",
+            "spoken_chunks": [
+                "mille neuf cent",
+                "cinquante-cinq"
+            ],
+            "sentence": "Elle a obtenu son diplôme en mille neuf cent cinquante-cinq.",
+            "audio_ref": "fr/2025-W50/audio/year_1955_school_graduation_year_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "school_graduation_year",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:02:02.628296Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "year_1918_historical_reference_fr-FR-AlainNeural",
+            "number_type": "YEAR",
+            "digits": "1918",
+            "spoken_chunks": [
+                "mille neuf cent",
+                "dix-huit"
+            ],
+            "sentence": "La fin de la Première Guerre mondiale, en mille neuf cent dix-huit, a marqué l'histoire.",
+            "audio_ref": "fr/2025-W50/audio/year_1918_historical_reference_fr-FR-AlainNeural.mp3",
             "blueprint_id": "historical_reference",
             "version_tag": "2025-W50",
-            "created_at": "2025-12-23T15:15:00.000000Z",
+            "created_at": "2025-12-23T21:02:02.628296Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "year_1942_historical_reference_fr-FR-HenriNeural",
+            "number_type": "YEAR",
+            "digits": "1942",
+            "spoken_chunks": [
+                "mille neuf cent",
+                "quarante-deux"
+            ],
+            "sentence": "L'armistice a été signé en mille neuf cent quarante-deux.",
+            "audio_ref": "fr/2025-W50/audio/year_1942_historical_reference_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "historical_reference",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:02:02.628296Z",
             "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "time_19:44_appointment_time_fr-FR-AlainNeural",
+            "number_type": "TIME",
+            "digits": "19:44",
+            "spoken_chunks": [
+                "dix-neuf heures",
+                "quarante-quatre"
+            ],
+            "sentence": "Mon rendez-vous est à dix-neuf heures quarante-quatre.",
+            "audio_ref": "fr/2025-W50/audio/time_19:44_appointment_time_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "appointment_time",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "time_08:27_train_departure_time_fr-FR-HenriNeural",
+            "number_type": "TIME",
+            "digits": "08:27",
+            "spoken_chunks": [
+                "huit heures",
+                "vingt-sept"
+            ],
+            "sentence": "Le train partira à huit heures vingt-sept.",
+            "audio_ref": "fr/2025-W50/audio/time_08:27_train_departure_time_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "train_departure_time",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "time_14:21_appointment_time_fr-FR-DeniseNeural",
+            "number_type": "TIME",
+            "digits": "14:21",
+            "spoken_chunks": [
+                "quatorze heures",
+                "vingt-et-un"
+            ],
+            "sentence": "Mon rendez-vous est à quatorze heures … vingt-et-un.",
+            "audio_ref": "fr/2025-W50/audio/time_14:21_appointment_time_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "appointment_time",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "time_10:30_train_departure_time_fr-FR-HenriNeural",
+            "number_type": "TIME",
+            "digits": "10:30",
+            "spoken_chunks": [
+                "dix heures",
+                "trente"
+            ],
+            "sentence": "Le train pour Lyon part à dix heures trente.",
+            "audio_ref": "fr/2025-W50/audio/time_10:30_train_departure_time_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "train_departure_time",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "address_374_home_address_fr-FR-HenriNeural",
+            "number_type": "ADDRESS",
+            "digits": "374",
+            "spoken_chunks": [
+                "trois cent soixante-quatorze"
+            ],
+            "sentence": "C'est le trois cent soixante-quatorze dans cette rue.",
+            "audio_ref": "fr/2025-W50/audio/address_374_home_address_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "home_address",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "address_608_home_address_fr-FR-AlainNeural",
+            "number_type": "ADDRESS",
+            "digits": "608",
+            "spoken_chunks": [
+                "six cent huit"
+            ],
+            "sentence": "J'habite au six cent huit, rue de la Paix.",
+            "audio_ref": "fr/2025-W50/audio/address_608_home_address_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "home_address",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "address_978_delivery_address_fr-FR-EloiseNeural",
+            "number_type": "ADDRESS",
+            "digits": "978",
+            "spoken_chunks": [
+                "neuf cent soixante-dix-huit"
+            ],
+            "sentence": "C'est le numéro neuf cent soixante-dix-huit.",
+            "audio_ref": "fr/2025-W50/audio/address_978_delivery_address_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "delivery_address",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "address_33_home_address_fr-FR-HenriNeural",
+            "number_type": "ADDRESS",
+            "digits": "33",
+            "spoken_chunks": [
+                "trente-trois"
+            ],
+            "sentence": "J'habite au trente-trois, rue Victor Hugo.",
+            "audio_ref": "fr/2025-W50/audio/address_33_home_address_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "home_address",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "address_614_delivery_address_fr-FR-EloiseNeural",
+            "number_type": "ADDRESS",
+            "digits": "614",
+            "spoken_chunks": [
+                "six cent quatorze"
+            ],
+            "sentence": "Ça sera au six cent quatorze.",
+            "audio_ref": "fr/2025-W50/audio/address_614_delivery_address_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "delivery_address",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "statistics_400_study_sample_size_fr-FR-EloiseNeural",
+            "number_type": "STATISTICS",
+            "digits": "400",
+            "spoken_chunks": [
+                "quatre cents"
+            ],
+            "sentence": "L'étude a inclus quatre cents personnes.",
+            "audio_ref": "fr/2025-W50/audio/statistics_400_study_sample_size_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "study_sample_size",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "statistics_135_study_sample_size_fr-FR-HenriNeural",
+            "number_type": "STATISTICS",
+            "digits": "135",
+            "spoken_chunks": [
+                "cent trente-cinq"
+            ],
+            "sentence": "L'étude a inclus cent trente-cinq participants.",
+            "audio_ref": "fr/2025-W50/audio/statistics_135_study_sample_size_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "study_sample_size",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:31:38.157371Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "time_10:30_train_departure_time_fr-FR-AlainNeural",
+            "number_type": "TIME",
+            "digits": "10:30",
+            "spoken_chunks": [
+                "dix heures",
+                "trente"
+            ],
+            "sentence": "Le train part à dix heures … trente.",
+            "audio_ref": "fr/2025-W50/audio/time_10:30_train_departure_time_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "train_departure_time",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:39:54.042069Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "statistics_359_study_sample_size_fr-FR-EloiseNeural",
+            "number_type": "STATISTICS",
+            "digits": "359",
+            "spoken_chunks": [
+                "trois cent cinquante-neuf"
+            ],
+            "sentence": "La taille de l'échantillon est de trois cent cinquante-neuf personnes.",
+            "audio_ref": "fr/2025-W50/audio/statistics_359_study_sample_size_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "study_sample_size",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:39:54.042069Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "statistics_286_population_statistics_fr-FR-AlainNeural",
+            "number_type": "STATISTICS",
+            "digits": "286",
+            "spoken_chunks": [
+                "deux cent quatre-vingt-six"
+            ],
+            "sentence": "Cette petite commune compte seulement deux cent quatre-vingt-six habitants.",
+            "audio_ref": "fr/2025-W50/audio/statistics_286_population_statistics_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "population_statistics",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:39:54.042069Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "statistics_622_study_sample_size_fr-FR-AlainNeural",
+            "number_type": "STATISTICS",
+            "digits": "622",
+            "spoken_chunks": [
+                "six cent vingt-deux"
+            ],
+            "sentence": "Nous avons interrogé six cent vingt-deux participants pour cette étude.",
+            "audio_ref": "fr/2025-W50/audio/statistics_622_study_sample_size_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "study_sample_size",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:39:54.042069Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "medical_578_medicine_dosage_fr-FR-DeniseNeural",
+            "number_type": "MEDICAL",
+            "digits": "578",
+            "spoken_chunks": [
+                "cinq cent soixante-dix-huit"
+            ],
+            "sentence": "La dose recommandée est de cinq cent soixante-dix-huit milligrammes.",
+            "audio_ref": "fr/2025-W50/audio/medical_578_medicine_dosage_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "medicine_dosage",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:39:54.042069Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "medical_814_medicine_dosage_fr-FR-AlainNeural",
+            "number_type": "MEDICAL",
+            "digits": "814",
+            "spoken_chunks": [
+                "huit cent quatorze"
+            ],
+            "sentence": "La dose est de huit cent quatorze milligrammes.",
+            "audio_ref": "fr/2025-W50/audio/medical_814_medicine_dosage_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "medicine_dosage",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:39:54.042069Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "medical_393_hospital_room_number_fr-FR-HenriNeural",
+            "number_type": "MEDICAL",
+            "digits": "393",
+            "spoken_chunks": [
+                "trois cent quatre-vingt-treize"
+            ],
+            "sentence": "La chambre de Paul est la trois cent quatre-vingt-treize.",
+            "audio_ref": "fr/2025-W50/audio/medical_393_hospital_room_number_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "hospital_room_number",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:46:14.346841Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "medical_868_pharmacy_prescription_fr-FR-EloiseNeural",
+            "number_type": "MEDICAL",
+            "digits": "868",
+            "spoken_chunks": [
+                "huit cent soixante-huit"
+            ],
+            "sentence": "Le traitement complet comprend huit cent soixante-huit comprimés.",
+            "audio_ref": "fr/2025-W50/audio/medical_868_pharmacy_prescription_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "pharmacy_prescription",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:46:14.346841Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "medical_868_hospital_room_number_fr-FR-HenriNeural",
+            "number_type": "MEDICAL",
+            "digits": "868",
+            "spoken_chunks": [
+                "huit cent soixante-huit"
+            ],
+            "sentence": "Je crois qu'il est dans la chambre huit cent soixante-huit.",
+            "audio_ref": "fr/2025-W50/audio/medical_868_hospital_room_number_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "hospital_room_number",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:46:14.346841Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "banking_5640_insurance_policy_number_fr-FR-HenriNeural",
+            "number_type": "BANKING",
+            "digits": "5640",
+            "spoken_chunks": [
+                "cinq mille six cent quarante"
+            ],
+            "sentence": "Votre numéro de contrat est le cinq mille six cent quarante.",
+            "audio_ref": "fr/2025-W50/audio/banking_5640_insurance_policy_number_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "insurance_policy_number",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:46:14.346841Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "banking_6021_tax_reference_number_fr-FR-AlainNeural",
+            "number_type": "BANKING",
+            "digits": "6021",
+            "spoken_chunks": [
+                "six mille vingt-et-un"
+            ],
+            "sentence": "Veuillez noter la référence six mille vingt-et-un.",
+            "audio_ref": "fr/2025-W50/audio/banking_6021_tax_reference_number_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "tax_reference_number",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:46:14.346841Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "banking_3172_insurance_policy_number_fr-FR-EloiseNeural",
+            "number_type": "BANKING",
+            "digits": "3172",
+            "spoken_chunks": [
+                "trois mille cent soixante-douze"
+            ],
+            "sentence": "Le numéro de votre contrat est le trois mille cent soixante-douze.",
+            "audio_ref": "fr/2025-W50/audio/banking_3172_insurance_policy_number_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "insurance_policy_number",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:46:14.346841Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "weather_13_rainfall_measurement_fr-FR-EloiseNeural",
+            "number_type": "WEATHER",
+            "digits": "13",
+            "spoken_chunks": [
+                "treize"
+            ],
+            "sentence": "On attend treize millimètres de pluie.",
+            "audio_ref": "fr/2025-W50/audio/weather_13_rainfall_measurement_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "rainfall_measurement",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:46:14.346841Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "weather_47_rainfall_measurement_fr-FR-DeniseNeural",
+            "number_type": "WEATHER",
+            "digits": "47",
+            "spoken_chunks": [
+                "quarante-sept"
+            ],
+            "sentence": "Il est tombé quarante-sept millimètres de pluie.",
+            "audio_ref": "fr/2025-W50/audio/weather_47_rainfall_measurement_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "rainfall_measurement",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:46:14.346841Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "transport_896_bus_line_number_fr-FR-AlainNeural",
+            "number_type": "TRANSPORT",
+            "digits": "896",
+            "spoken_chunks": [
+                "huit cent quatre-vingt-seize"
+            ],
+            "sentence": "Tu sais si le huit cent quatre-vingt-seize passe par ici ?",
+            "audio_ref": "fr/2025-W50/audio/transport_896_bus_line_number_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "bus_line_number",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-23T21:46:14.346841Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "weather_13_temperature_forecast_fr-FR-DeniseNeural",
+            "number_type": "WEATHER",
+            "digits": "13",
+            "spoken_chunks": [
+                "treize"
+            ],
+            "sentence": "Il fera treize degrés demain.",
+            "audio_ref": "fr/2025-W50/audio/weather_13_temperature_forecast_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "temperature_forecast",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "weather_6_rainfall_measurement_fr-FR-HenriNeural",
+            "number_type": "WEATHER",
+            "digits": "6",
+            "spoken_chunks": [
+                "six"
+            ],
+            "sentence": "Il a plu six millimètres ce matin.",
+            "audio_ref": "fr/2025-W50/audio/weather_6_rainfall_measurement_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "rainfall_measurement",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "weather_36_rainfall_measurement_fr-FR-AlainNeural",
+            "number_type": "WEATHER",
+            "digits": "36",
+            "spoken_chunks": [
+                "trente-six"
+            ],
+            "sentence": "Il est tombé trente-six millimètres de pluie cette nuit.",
+            "audio_ref": "fr/2025-W50/audio/weather_36_rainfall_measurement_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "rainfall_measurement",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "transport_554_train_platform_fr-FR-EloiseNeural",
+            "number_type": "TRANSPORT",
+            "digits": "554",
+            "spoken_chunks": [
+                "cinq cent cinquante-quatre"
+            ],
+            "sentence": "Le train pour Lyon partira voie cinq cent cinquante-quatre.",
+            "audio_ref": "fr/2025-W50/audio/transport_554_train_platform_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "train_platform",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "transport_728_bus_line_number_fr-FR-DeniseNeural",
+            "number_type": "TRANSPORT",
+            "digits": "728",
+            "spoken_chunks": [
+                "sept cent vingt-huit"
+            ],
+            "sentence": "C'est le bus sept cent vingt-huit, non ?",
+            "audio_ref": "fr/2025-W50/audio/transport_728_bus_line_number_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "bus_line_number",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "transport_452_bus_line_number_fr-FR-AlainNeural",
+            "number_type": "TRANSPORT",
+            "digits": "452",
+            "spoken_chunks": [
+                "quatre cent cinquante-deux"
+            ],
+            "sentence": "Tu prends le quatre cent cinquante-deux ?",
+            "audio_ref": "fr/2025-W50/audio/transport_452_bus_line_number_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "bus_line_number",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "transport_655_bus_line_number_fr-FR-DeniseNeural",
+            "number_type": "TRANSPORT",
+            "digits": "655",
+            "spoken_chunks": [
+                "six cent cinquante-cinq"
+            ],
+            "sentence": "C'est le bus six cent cinquante-cinq, il arrive bientôt.",
+            "audio_ref": "fr/2025-W50/audio/transport_655_bus_line_number_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "bus_line_number",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "transport_623_train_platform_fr-FR-AlainNeural",
+            "number_type": "TRANSPORT",
+            "digits": "623",
+            "spoken_chunks": [
+                "six cent vingt-trois"
+            ],
+            "sentence": "Le train pour Lyon partira quai six cent vingt-trois.",
+            "audio_ref": "fr/2025-W50/audio/transport_623_train_platform_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "train_platform",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "quantity_75_grocery_quantity_fr-FR-HenriNeural",
+            "number_type": "QUANTITY",
+            "digits": "75",
+            "spoken_chunks": [
+                "soixante-quinze"
+            ],
+            "sentence": "Prends-moi soixante-quinze paquets de pâtes, s'il te plaît.",
+            "audio_ref": "fr/2025-W50/audio/quantity_75_grocery_quantity_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "grocery_quantity",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "quantity_84_grocery_quantity_fr-FR-DeniseNeural",
+            "number_type": "QUANTITY",
+            "digits": "84",
+            "spoken_chunks": [
+                "quatre-vingt-quatre"
+            ],
+            "sentence": "Prends quatre-vingt-quatre paquets de lait, s'il te plaît.",
+            "audio_ref": "fr/2025-W50/audio/quantity_84_grocery_quantity_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "grocery_quantity",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "quantity_16_market_weight_fr-FR-EloiseNeural",
+            "number_type": "QUANTITY",
+            "digits": "16",
+            "spoken_chunks": [
+                "seize"
+            ],
+            "sentence": "Alors, je vous mets seize kilos de tomates, c'est ça ?",
+            "audio_ref": "fr/2025-W50/audio/quantity_16_market_weight_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "market_weight",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "quantity_32_market_weight_fr-FR-HenriNeural",
+            "number_type": "QUANTITY",
+            "digits": "32",
+            "spoken_chunks": [
+                "trente-deux"
+            ],
+            "sentence": "Vous avez encore trente-deux kilos de pommes de terre ?",
+            "audio_ref": "fr/2025-W50/audio/quantity_32_market_weight_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "market_weight",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "quantity_93_grocery_quantity_fr-FR-EloiseNeural",
+            "number_type": "QUANTITY",
+            "digits": "93",
+            "spoken_chunks": [
+                "quatre-vingt-treize"
+            ],
+            "sentence": "Pense à prendre quatre-vingt-treize paquets de mouchoirs.",
+            "audio_ref": "fr/2025-W50/audio/quantity_93_grocery_quantity_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "grocery_quantity",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
         }
     ]
 }
