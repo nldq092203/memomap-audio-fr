@@ -1157,6 +1157,298 @@
             "version_tag": "2025-W50",
             "created_at": "2025-12-24T08:20:57.150455Z",
             "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "price_4739.91_online_order_total_fr-FR-EloiseNeural",
+            "number_type": "PRICE",
+            "digits": "4739.91",
+            "spoken_chunks": [
+                "quatre mille sept cent trente-neuf euros",
+                "quatre-vingt-onze"
+            ],
+            "sentence": "Votre commande s'élève donc à quatre mille sept cent trente-neuf euros quatre-vingt-onze.",
+            "audio_ref": "fr/2025-W50/audio/price_4739.91_online_order_total_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "online_order_total",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "price_2014.83_travel_ticket_price_fr-FR-DeniseNeural",
+            "number_type": "PRICE",
+            "digits": "2014.83",
+            "spoken_chunks": [
+                "deux mille quatorze euros",
+                "quatre-vingt-trois"
+            ],
+            "sentence": "Le billet pour la semaine prochaine coûte deux mille quatorze euros quatre-vingt-trois.",
+            "audio_ref": "fr/2025-W50/audio/price_2014.83_travel_ticket_price_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "travel_ticket_price",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "price_4150.71_supermarket_total_fr-FR-EloiseNeural",
+            "number_type": "PRICE",
+            "digits": "4150.71",
+            "spoken_chunks": [
+                "quatre mille cent cinquante euros",
+                "soixante-et-onze"
+            ],
+            "sentence": "Alors, ça fera quatre mille cent cinquante euros … soixante-et-onze, s'il vous plaît.",
+            "audio_ref": "fr/2025-W50/audio/price_4150.71_supermarket_total_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "supermarket_total",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "price_4613.30_online_order_total_fr-FR-HenriNeural",
+            "number_type": "PRICE",
+            "digits": "4613.30",
+            "spoken_chunks": [
+                "quatre mille six cent treize euros",
+                "trente"
+            ],
+            "sentence": "Votre total s'élève à quatre mille six cent treize euros … trente.",
+            "audio_ref": "fr/2025-W50/audio/price_4613.30_online_order_total_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "online_order_total",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "price_3042.31_hotel_night_rate_fr-FR-AlainNeural",
+            "number_type": "PRICE",
+            "digits": "3042.31",
+            "spoken_chunks": [
+                "trois mille quarante-deux euros",
+                "trente-et-un"
+            ],
+            "sentence": "Le tarif pour une nuit dans la suite présidentielle est de trois mille quarante-deux euros trente-et-un.",
+            "audio_ref": "fr/2025-W50/audio/price_3042.31_hotel_night_rate_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "hotel_night_rate",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "time_17:53_meeting_time_fr-FR-EloiseNeural",
+            "number_type": "TIME",
+            "digits": "17:53",
+            "spoken_chunks": [
+                "dix-sept heures",
+                "cinquante-trois"
+            ],
+            "sentence": "On se retrouve bien à dix-sept heures … cinquante-trois pour la réunion ?",
+            "audio_ref": "fr/2025-W50/audio/time_17:53_meeting_time_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "meeting_time",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "time_15:52_meeting_time_fr-FR-HenriNeural",
+            "number_type": "TIME",
+            "digits": "15:52",
+            "spoken_chunks": [
+                "quinze heures",
+                "cinquante-deux"
+            ],
+            "sentence": "Je confirme, la réunion est donc bien prévue pour quinze heures cinquante-deux.",
+            "audio_ref": "fr/2025-W50/audio/time_15:52_meeting_time_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "meeting_time",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "time_13:23_train_departure_time_fr-FR-EloiseNeural",
+            "number_type": "TIME",
+            "digits": "13:23",
+            "spoken_chunks": [
+                "treize heures",
+                "vingt-trois"
+            ],
+            "sentence": "Le train pour Lyon partira à treize heures vingt-trois.",
+            "audio_ref": "fr/2025-W50/audio/time_13:23_train_departure_time_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "train_departure_time",
+            "version_tag": "2025-W50",
+            "created_at": "2026-01-12T20:17:48.168863Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "time_17:37_appointment_time_fr-FR-HenriNeural",
+            "number_type": "TIME",
+            "digits": "17:37",
+            "spoken_chunks": [
+                "dix-sept heures",
+                "trente-sept"
+            ],
+            "sentence": "Mon rendez-vous est à dix-sept heures trente-sept.",
+            "audio_ref": "fr/2025-W50/audio/time_17:37_appointment_time_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "appointment_time",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "time_12:46_train_departure_time_fr-FR-AlainNeural",
+            "number_type": "TIME",
+            "digits": "12:46",
+            "spoken_chunks": [
+                "douze heures",
+                "quarante-six"
+            ],
+            "sentence": "Le train pour Lyon partira à douze heures … quarante-six.",
+            "audio_ref": "fr/2025-W50/audio/time_12:46_train_departure_time_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "train_departure_time",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "address_187_delivery_address_fr-FR-HenriNeural",
+            "number_type": "ADDRESS",
+            "digits": "187",
+            "spoken_chunks": [
+                "cent quatre-vingt-sept"
+            ],
+            "sentence": "C'est au cent quatre-vingt-sept dans la rue.",
+            "audio_ref": "fr/2025-W50/audio/address_187_delivery_address_fr-FR-HenriNeural.mp3",
+            "blueprint_id": "delivery_address",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-HenriNeural"
+        },
+        {
+            "id": "address_402_hotel_address_fr-FR-AlainNeural",
+            "number_type": "ADDRESS",
+            "digits": "402",
+            "spoken_chunks": [
+                "quatre cent deux"
+            ],
+            "sentence": "C'est bien le quatre cent deux rue de la Paix ?",
+            "audio_ref": "fr/2025-W50/audio/address_402_hotel_address_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "hotel_address",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "address_362_home_address_fr-FR-DeniseNeural",
+            "number_type": "ADDRESS",
+            "digits": "362",
+            "spoken_chunks": [
+                "trois cent soixante-deux"
+            ],
+            "sentence": "C'est au numéro trois cent soixante-deux, dans cette rue.",
+            "audio_ref": "fr/2025-W50/audio/address_362_home_address_fr-FR-DeniseNeural.mp3",
+            "blueprint_id": "home_address",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-DeniseNeural"
+        },
+        {
+            "id": "address_602_home_address_fr-FR-EloiseNeural",
+            "number_type": "ADDRESS",
+            "digits": "602",
+            "spoken_chunks": [
+                "six cent deux"
+            ],
+            "sentence": "C'est au six cent deux, rue de la République.",
+            "audio_ref": "fr/2025-W50/audio/address_602_home_address_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "home_address",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "address_601_home_address_fr-FR-EloiseNeural",
+            "number_type": "ADDRESS",
+            "digits": "601",
+            "spoken_chunks": [
+                "six cent un"
+            ],
+            "sentence": "C'est au six cent un de cette rue.",
+            "audio_ref": "fr/2025-W50/audio/address_601_home_address_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "home_address",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "phone_0669836886_appointment_confirmation_fr-FR-EloiseNeural",
+            "number_type": "PHONE",
+            "digits": "0669836886",
+            "spoken_chunks": [
+                "zéro six",
+                "soixante-neuf",
+                "quatre-vingt-trois",
+                "soixante-huit",
+                "quatre-vingt-six"
+            ],
+            "sentence": "Vous pouvez me rappeler au zéro six soixante-neuf quatre-vingt-trois soixante-huit quatre-vingt-six.",
+            "audio_ref": "fr/2025-W50/audio/phone_0669836886_appointment_confirmation_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "appointment_confirmation",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "phone_0649466334_appointment_confirmation_fr-FR-AlainNeural",
+            "number_type": "PHONE",
+            "digits": "0649466334",
+            "spoken_chunks": [
+                "zéro six",
+                "quarante-neuf",
+                "quarante-six",
+                "soixante-trois",
+                "trente-quatre"
+            ],
+            "sentence": "Vous pouvez me rappeler au zéro six quarante-neuf quarante-six soixante-trois trente-quatre.",
+            "audio_ref": "fr/2025-W50/audio/phone_0649466334_appointment_confirmation_fr-FR-AlainNeural.mp3",
+            "blueprint_id": "appointment_confirmation",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-AlainNeural"
+        },
+        {
+            "id": "phone_0679801596_emergency_contact_exchange_fr-FR-EloiseNeural",
+            "number_type": "PHONE",
+            "digits": "0679801596",
+            "spoken_chunks": [
+                "zéro six",
+                "soixante-dix-neuf",
+                "quatre-vingt",
+                "quinze",
+                "quatre-vingt-seize"
+            ],
+            "sentence": "Vous pouvez me rappeler au zéro six soixante-dix-neuf quatre-vingt quinze quatre-vingt-seize.",
+            "audio_ref": "fr/2025-W50/audio/phone_0679801596_emergency_contact_exchange_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "emergency_contact_exchange",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
+        },
+        {
+            "id": "phone_0663293113_professional_contact_fr-FR-EloiseNeural",
+            "number_type": "PHONE",
+            "digits": "0663293113",
+            "spoken_chunks": [
+                "zéro six",
+                "soixante-trois",
+                "vingt-neuf",
+                "trente-et-un",
+                "treize"
+            ],
+            "sentence": "Vous pouvez me rappeler au zéro six soixante-trois vingt-neuf trente-et-un treize.",
+            "audio_ref": "fr/2025-W50/audio/phone_0663293113_professional_contact_fr-FR-EloiseNeural.mp3",
+            "blueprint_id": "professional_contact",
+            "version_tag": "2025-W50",
+            "created_at": "2025-12-24T08:20:57.150455Z",
+            "voice": "fr-FR-EloiseNeural"
         }
     ]
 }
