@@ -3,12 +3,83 @@
         {
             "id": "44f56193-237a-4811-89d4-8848a7263732",
             "name": "La Bonnotte de Noirmoutier",
-            "duration_seconds": 101
+            "duration_seconds": 101,
+            "language": "fr",
+            "created_at": "2026-01-12T21:48:11.842744+00:00",
+            "updated_at": "2026-01-12T21:48:11.842744+00:00",
+            "audio_filename": "co-ce-practice/B2/44f56193-237a-4811-89d4-8848a7263732/audio.mp3"
         },
         {
             "id": "293fcad3-3f7b-4869-bb20-de8c84348db7",
             "name": "Les ados jouent à se faire peur",
-            "duration_seconds": 141
+            "duration_seconds": 141,
+            "language": "fr",
+            "created_at": "2026-01-12T21:42:38.800835+00:00",
+            "updated_at": "2026-01-12T21:42:38.800835+00:00",
+            "audio_filename": "co-ce-practice/B2/293fcad3-3f7b-4869-bb20-de8c84348db7/audio.mp3"
+        },
+        {
+            "id": "3a9c11ea-0833-4c72-9b1d-dc87bf5de698",
+            "name": "Les Francos gourmandes à Tournus",
+            "duration_seconds": 170,
+            "language": "fr",
+            "created_at": "2026-01-12T21:27:30.391557+00:00",
+            "updated_at": "2026-01-12T21:27:30.391557+00:00",
+            "audio_filename": "co-ce-practice/B2/3a9c11ea-0833-4c72-9b1d-dc87bf5de698/audio.mp3"
+        },
+        {
+            "id": "5044c4b4-c26d-460c-b590-cb6b9aa60ca6",
+            "name": "Les repas en France",
+            "duration_seconds": 159,
+            "language": "fr",
+            "created_at": "2026-01-12T21:22:24.111391+00:00",
+            "updated_at": "2026-01-12T21:22:24.111391+00:00",
+            "audio_filename": "co-ce-practice/B2/5044c4b4-c26d-460c-b590-cb6b9aa60ca6/audio.mp3"
+        },
+        {
+            "id": "55d594f9-6b02-4455-8da5-ec03c82d27ce",
+            "name": "Lève-toi et marche !",
+            "duration_seconds": 195,
+            "language": "fr",
+            "created_at": "2026-01-12T21:40:41.009436+00:00",
+            "updated_at": "2026-01-12T21:40:41.009436+00:00",
+            "audio_filename": "co-ce-practice/B2/55d594f9-6b02-4455-8da5-ec03c82d27ce/audio.mp3"
+        },
+        {
+            "id": "5e3fa190-34b9-469c-9181-dd3eef9ff265",
+            "name": "La musique n'a pas d'âge",
+            "duration_seconds": 125,
+            "language": "fr",
+            "created_at": "2026-01-12T21:20:35.083245+00:00",
+            "updated_at": "2026-01-12T21:20:35.083245+00:00",
+            "audio_filename": "co-ce-practice/B2/5e3fa190-34b9-469c-9181-dd3eef9ff265/audio.mp3"
+        },
+        {
+            "id": "bc724f06-9920-4cf1-a9fd-a6298fe60cf9",
+            "name": "Ces plastiques que l'on jette à la mer",
+            "duration_seconds": 118,
+            "language": "fr",
+            "created_at": "2026-01-12T21:34:41.352767+00:00",
+            "updated_at": "2026-01-12T21:34:41.352767+00:00",
+            "audio_filename": "co-ce-practice/B2/bc724f06-9920-4cf1-a9fd-a6298fe60cf9/audio.mp3"
+        },
+        {
+            "id": "d09be069-d0c4-486f-96cb-83cd8357b83a",
+            "name": "La Belgique, le pays le plus embouteillé au monde",
+            "duration_seconds": 140,
+            "language": "fr",
+            "created_at": "2026-01-12T21:16:03.803014+00:00",
+            "updated_at": "2026-01-12T21:16:03.803014+00:00",
+            "audio_filename": "co-ce-practice/B2/d09be069-d0c4-486f-96cb-83cd8357b83a/audio.mp3"
+        },
+        {
+            "id": "f7934955-afc9-4edf-94ae-8f0102cab870",
+            "name": "Reprendre la ferme familiale",
+            "duration_seconds": 107,
+            "language": "fr",
+            "created_at": "2026-01-12T21:28:15.782303+00:00",
+            "updated_at": "2026-01-12T21:28:15.782303+00:00",
+            "audio_filename": "co-ce-practice/B2/f7934955-afc9-4edf-94ae-8f0102cab870/audio.mp3"
         }
     ]
 }
