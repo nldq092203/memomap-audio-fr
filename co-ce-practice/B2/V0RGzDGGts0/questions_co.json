@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "type": "compréhension_orale",
+    "niveau": "B2",
+    "titre": "Reportage : Le Groenland convoité",
+    "consigne": null,
+    "total_questions": 11
+  },
+  "questions": [
+    {
+      "id": "CO_01",
+      "type": "single_choice",
+      "question": "Dans quelle ville groenlandaise le reportage se déroule-t-il ?",
+      "options": [
+        "Ilulissat.",
+        "Nuuk.",
+        "Copenhague."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le journaliste mentionne : 'Le froid règne dans les rues de Nuuk'."
+    },
+    {
+      "id": "CO_02",
+      "type": "single_choice",
+      "question": "Quelle phrase résume la réponse des partis politiques citée au début ?",
+      "options": [
+        "Nous voulons renégocier les accords.",
+        "Nous ne voulons pas être américains.",
+        "Nous attendons une meilleure offre."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Citation directe : 'Nous ne voulons pas être américains'."
+    },
+    {
+      "id": "CO_03",
+      "type": "single_choice",
+      "question": "Quelles sont les deux méthodes évoquées par Donald Trump pour s'emparer du territoire ?",
+      "options": [
+        "La manière diplomatique ou la manière économique.",
+        "La manière douce ou la manière forte.",
+        "La manière légale ou la manière illégale."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Citation : 'que ce soit de la manière douce ou de la manière forte'."
+    },
+    {
+      "id": "CO_04",
+      "type": "single_choice",
+      "question": "Comment l'habitant interrogé réagit-il à la perspective de recevoir de l'argent ?",
+      "options": [
+        "Il refuse poliment mais fermement.",
+        "Il demande combien les USA proposent.",
+        "Il dit qu'il va y réfléchir."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Il répond : 'Non non, je dirais non merci. Je n'ai pas besoin d'argent'."
+    },
+    {
+      "id": "CO_05",
+      "type": "single_choice",
+      "question": "À quel moment la déclaration commune des politiques a-t-elle été signée ?",
+      "options": [
+        "Lundi matin.",
+        "Vendredi soir.",
+        "Le jour même du reportage."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Précision temporelle : 'Ils ont signé une déclaration commune vendredi soir'."
+    },
+    {
+      "id": "CO_06",
+      "type": "single_choice",
+      "question": "Quelle affirmation résume la position officielle sur la vente du pays ?",
+      "options": [
+        "Le Groenland est à vendre si le prix est juste.",
+        "Le Groenland n'a jamais été à vendre et ne le sera jamais.",
+        "Le Groenland pourrait être vendu après un référendum."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Citation : 'Le Groenland n'a jamais été à vendre et ne le sera jamais'."
+    },
+    {
+      "id": "CO_07",
+      "type": "multiple_choice",
+      "question": "Quels moyens les États-Unis semblent-ils prêts à utiliser selon l'analyse locale ? (2 réponses)",
+      "options": [
+        "L'annexion du pays.",
+        "D'autres moyens non précisés pour 'obtenir' le pays.",
+        "Un blocus maritime.",
+        "L'achat des terres agricoles uniquement."
+      ],
+      "correct_indices": [
+        0,
+        1
+      ],
+      "explanation": "Le texte dit qu'ils 'n'excluent pas l'annexion' et sont 'intéressés par d'autres moyens d'obtenir notre pays'."
+    },
+    {
+      "id": "CO_08",
+      "type": "single_choice",
+      "question": "Que préconisent les 'voix alternatives' de l'opposition ?",
+      "options": [
+        "Un dialogue direct avec les USA sans l'intermédiaire du Danemark.",
+        "Une rupture diplomatique avec les USA.",
+        "Une alliance avec la Russie."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Proposition : 'engager un dialogue avec le gouvernement américain sans le Danemark'."
+    },
+    {
+      "id": "CO_09",
+      "type": "single_choice",
+      "question": "Pourquoi le Danemark est-il critiqué par l'opposition ?",
+      "options": [
+        "Car il veut garder l'argent pour lui.",
+        "Car sa médiation contrarie tout le monde et bloque l'indépendance.",
+        "Car il refuse de parler à Trump."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Critique : 'Le Danemark contrarie à la fois le Groenland et les États-Unis par sa médiation'."
+    },
+    {
+      "id": "CO_10",
+      "type": "single_choice",
+      "question": "Quel est l'argument principal de Trump pour justifier le contrôle du Groenland ?",
+      "options": [
+        "C'est une question de ressources énergétiques.",
+        "C'est une question de sécurité nationale.",
+        "C'est une question de prestige historique."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Citation : 'une question de sécurité pour les États-Unis'."
+    },
+    {
+      "id": "CO_11",
+      "type": "multiple_choice",
+      "question": "Quels pays concurrents sont cités par Donald Trump ? (2 réponses)",
+      "options": [
+        "La Chine.",
+        "L'Iran.",
+        "La Russie.",
+        "L'Allemagne."
+      ],
+      "correct_indices": [
+        0,
+        2
+      ],
+      "explanation": "Les rivaux cités sont : 'c'est la Chine ou la Russie qui l'occuperont'."
+    }
+  ]
+}
