@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "type": "compréhension_écrite",
+    "niveau": "B2",
+    "titre": "La Converse All Star : anatomie d'un mythe",
+    "consigne": null,
+    "total_questions": 13
+  },
+  "questions": [
+    {
+      "id": "CE_01",
+      "type": "single_choice",
+      "question": "Quelle image culturelle la Converse All Star incarne-t-elle principalement ?",
+      "options": [
+        "Le luxe et la haute couture européenne.",
+        "Le style universitaire américain et une forme de rébellion.",
+        "La rigueur du monde de l'entreprise."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte mentionne qu'elle incarne 'le style college américain', la 'fureur de vivre' et une 'contre-culture'."
+    },
+    {
+      "id": "CE_02",
+      "type": "lexical_in_context",
+      "question": "Dans le texte, à quoi sert la 'tige' de la chaussure ?",
+      "options": [
+        "À décorer le côté de la basket.",
+        "À assurer le maintien et la protection de l'articulation.",
+        "À faire de la publicité pour la marque."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte dit : 'elle est montante et possède une tige pour protéger la cheville'."
+    },
+    {
+      "id": "CE_03",
+      "type": "single_choice",
+      "question": "Quelle était la norme vestimentaire en ville dans les années 60 en Europe avant l'arrivée des baskets ?",
+      "options": [
+        "Les chaussures en cuir ou à talons étaient la règle.",
+        "Les gens marchaient pieds nus en été.",
+        "Les sandales en plastique étaient très populaires."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Le texte indique qu'avant, les gens portaient 'la traditionnelle chaussure de cuir à talons pour les femmes ou l'aspect pour les hommes'."
+    },
+    {
+      "id": "CE_04",
+      "type": "single_choice",
+      "question": "Quelle est l'origine anecdotique de la création de ce modèle ?",
+      "options": [
+        "Une commande de l'armée américaine.",
+        "Un accident physique survenu à un gymnaste.",
+        "Une erreur de fabrication dans l'usine."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "La légende raconte qu'elle a été inventée par un gymnaste 'après s'être tordu la cheville'."
+    },
+    {
+      "id": "CE_05",
+      "type": "inference",
+      "question": "Quel rôle Chuck Taylor a-t-il joué dans le succès de la marque ?",
+      "options": [
+        "Il a financé l'entreprise avec sa fortune personnelle.",
+        "Il a agi comme un véritable promoteur auprès des jeunes sportifs.",
+        "Il a dessiné le logo de l'étoile."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Il est décrit comme 'bien plus qu'un vendeur', un 'ambassadeur' qui présentait les chaussures aux étudiants et universitaires."
+    },
+    {
+      "id": "CE_06",
+      "type": "single_choice",
+      "question": "Dans les années 90, comment la All Star s'est-elle positionnée face à la concurrence ?",
+      "options": [
+        "Comme une chaussure technologique de pointe.",
+        "Comme une alternative rétro et basique face aux modèles techniques.",
+        "Comme une chaussure réservée à l'élite sportive."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte dit qu'elle devient 'l'alternative au modèle très technique' et reste un 'modèle rétro et très basique'."
+    },
+    {
+      "id": "CE_07",
+      "type": "lexical_in_context",
+      "question": "Que signifie l'expression 'intello chic' utilisée pour décrire le style de la chaussure ?",
+      "options": [
+        "Un style négligé et sale.",
+        "Un style qui mêle élégance et culture.",
+        "Un style réservé aux professeurs."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "C'est une association de 'décontracté' et d'une touche intellectuelle/élégante."
+    },
+    {
+      "id": "CE_08",
+      "type": "single_choice",
+      "question": "À quel vêtement intemporel la Converse est-elle comparée ?",
+      "options": [
+        "Au trench-coat.",
+        "Au jean.",
+        "Au t-shirt blanc."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Comparaison explicite : 'c'est comme un jean'."
+    },
+    {
+      "id": "CE_09",
+      "type": "single_choice",
+      "question": "Quel élément permet à la chaussure de se renouveler constamment ?",
+      "options": [
+        "Le changement de forme de la semelle.",
+        "La variation des tissus et des matières.",
+        "Le changement de logo chaque année."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le renouvellement se fait 'à travers le changement du tissu'."
+    },
+    {
+      "id": "CE_10",
+      "type": "author_intention",
+      "question": "Quel est le message principal de la conclusion sur la durée de vie de ce modèle ?",
+      "options": [
+        "C'est un effet de mode passager qui va bientôt disparaître.",
+        "C'est un objet cyclique qui ne meurt jamais vraiment.",
+        "C'est une chaussure qui doit être remplacée par des modèles modernes."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte affirme : 'on imagine qu'elle va disparaître, elle ne disparaît jamais [...] constamment se renouveler'."
+    },
+    {
+      "id": "CE_11",
+      "type": "true_false_not_given",
+      "question": "À l'origine, porter des baskets en ville en Europe était considéré comme normal.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Le texte dit : 'on ne pouvait pas imaginer de porter des baskets en dehors d'une pratique sportive [...] ça ne se portait pas'."
+    },
+    {
+      "id": "CE_12",
+      "type": "true_false_not_given",
+      "question": "Chuck Taylor était un joueur de la NBA très célèbre.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Cela n'est pas dit. Le texte dit qu'il était 'basketteur' et 'ambassadeur', mais ne précise pas s'il a joué en NBA ou s'il était une star du jeu lui-même."
+    },
+    {
+      "id": "CE_13",
+      "type": "true_false_not_given",
+      "question": "Le logo à cinq branches fait référence à un événement sportif annuel.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Vrai. Le texte précise : 'en référence à la compétition annuelle de basket aux états unis la NBA all star game'."
+    }
+  ]
+}
