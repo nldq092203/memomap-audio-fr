@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "type": "compréhension_écrite",
+    "niveau": "B2",
+    "titre": "L'humiliation : une arme stratégique en politique étrangère",
+    "consigne": null,
+    "total_questions": 13
+  },
+  "questions": [
+    {
+      "id": "CE_01",
+      "type": "single_choice",
+      "question": "Quel paradoxe a motivé le choix de ce sujet de recherche par Marie Durieux ?",
+      "options": [
+        "Le fait que l'humiliation soit interdite par l'ONU mais pratiquée par tous.",
+        "Le décalage entre l'omniprésence du phénomène dans l'actualité et le manque d'études scientifiques à ce sujet.",
+        "Le fait que les pays puissants se sentent plus humiliés que les pays faibles."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte mentionne : 'un paradoxe entre l'importance que l'humiliation semble avoir dans l'actualité internationale et le peu d'études qui l'ont considéré'."
+    },
+    {
+      "id": "CE_02",
+      "type": "single_choice",
+      "question": "Pourquoi la science politique a-t-elle longtemps négligé l'étude de l'humiliation ?",
+      "options": [
+        "Parce qu'elle était perçue comme une émotion irrationnelle, non pertinente pour l'analyse stratégique.",
+        "Parce qu'il est impossible de la mesurer avec des statistiques.",
+        "Parce que c'est un sujet réservé aux psychologues cliniciens."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Raison donnée : 'elle est souvent considérée comme non rationnelle et donc non pertinente pour comprendre la politique étrangère'."
+    },
+    {
+      "id": "CE_03",
+      "type": "single_choice",
+      "question": "Quelle définition théorique l'auteure donne-t-elle de l'humiliation ?",
+      "options": [
+        "Une agression verbale publique visant à détruire l'adversaire.",
+        "Un fossé entre la perception qu'un acteur a de lui-même et l'image que les autres lui renvoient.",
+        "La perte totale de souveraineté d'un état face à un envahisseur."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Définition : 'un décalage entre l'image qu'un acteur a de lui-même et l'image qui lui est renvoyée par l'autre'."
+    },
+    {
+      "id": "CE_04",
+      "type": "inference",
+      "question": "Pourquoi la présence russe est-elle ressentie comme une humiliation par la Géorgie ?",
+      "options": [
+        "Parce qu'elle contredit l'aspiration de la Géorgie à être reconnue comme un état pleinement souverain.",
+        "Parce que la Russie refuse de commercer avec la Géorgie.",
+        "Parce que les soldats russes se moquent publiquement des dirigeants géorgiens."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "L'exemple explique que la Géorgie 'souhaite être connue comme un état indépendant' et que l'ingérence représente un 'décalage par rapport à ses ambitions'."
+    },
+    {
+      "id": "CE_05",
+      "type": "single_choice",
+      "question": "Quelle conclusion surprenante l'auteure a-t-elle tirée de son travail de terrain ?",
+      "options": [
+        "L'humiliation ne concerne que les chefs d'État.",
+        "L'humiliation est absente des relations diplomatiques modernes.",
+        "L'humiliation est omniprésente et touche tous les acteurs, qu'ils soient puissants ou faibles."
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Conclusion : 'l'humiliation était partout [...] Peu importe qui était l'acteur relativement plus faible ou celui relativement plus fort'."
+    },
+    {
+      "id": "CE_06",
+      "type": "lexical_in_context",
+      "question": "Que signifie 'instrumentaliser' l'humiliation dans ce contexte ?",
+      "options": [
+        "Utiliser l'humiliation de manière consciente comme un outil pour atteindre un objectif.",
+        "Jouer de la musique pour apaiser les tensions.",
+        "Subir l'humiliation sans réagir."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Le texte dit que l'humiliation est 'stratégiquement instrumentalisée', c'est-à-dire 'manipulée à des buts précis'."
+    },
+    {
+      "id": "CE_07",
+      "type": "single_choice",
+      "question": "Quel double objectif Donald Trump vise-t-il en humiliant Emmanuel Macron ?",
+      "options": [
+        "Affaiblir l'économie française et renforcer l'OTAN.",
+        "Réaffirmer la domination américaine à l'international et satisfaire sa base électorale aux États-Unis.",
+        "Provoquer une guerre commerciale et annuler les accords climatiques."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Double stratégie : 'réimposer la posture dominante des États-Unis' (international) et 'satisfaire son électorat' (intérieur)."
+    },
+    {
+      "id": "CE_08",
+      "type": "inference",
+      "question": "Comment l'expression 'Make America Great Again' est-elle liée à l'humiliation selon l'auteure ?",
+      "options": [
+        "Elle implique une volonté d'écraser symboliquement les autres pour restaurer sa propre grandeur.",
+        "Elle est une invitation à la coopération internationale.",
+        "Elle montre que les États-Unis se sentent humiliés par la Chine."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "L'auteure lie ce slogan à une 'position écrasante' et à la volonté de remettre les autres à une 'place bien secondaire'."
+    },
+    {
+      "id": "CE_09",
+      "type": "single_choice",
+      "question": "Selon Marie Durieux, l'usage de l'humiliation est-il efficace à long terme ?",
+      "options": [
+        "Oui, car il permet de soumettre durablement l'adversaire.",
+        "Non, car il est souvent contre-productif et échappe au contrôle de l'humiliant.",
+        "Cela dépend de la puissance militaire du pays."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Son intuition est que 'c'est souvent contre-productif' car 'celui qui a mis en œuvre l'humiliation va en perdre le contrôle'."
+    },
+    {
+      "id": "CE_10",
+      "type": "author_intention",
+      "question": "Quel est l'objectif principal de cette thèse ?",
+      "options": [
+        "Dénoncer la méchanceté de Donald Trump.",
+        "Prouver que l'humiliation est un concept empirique et stratégique, pas juste émotionnel.",
+        "Écrire l'histoire des relations entre l'Iran et les États-Unis."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Son ambition était d''étudier l'humiliation d'un point de vue empirique' et de montrer qu'elle est 'stratégiquement instrumentalisée'."
+    },
+    {
+      "id": "CE_11",
+      "type": "true_false_not_given",
+      "question": "Bertrand Badie est le seul auteur à avoir traité de ce sujet avant Marie Durieux.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Elle dit qu'il n'y a pas eu 'beaucoup' d'études, mais cite Bertrand Badie comme auteur d'un 'ouvrage majeur', sans dire qu'il est l'unique auteur existant (juste le plus notable)."
+    },
+    {
+      "id": "CE_12",
+      "type": "true_false_not_given",
+      "question": "L'Iran utilise son statut de victime humiliée pour accroître son influence auprès des pays du Sud.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Vrai. Le texte dit : 'Ils se positionnent en porte-drapeau de la résistance aux humiliations occidentales auprès des puissances émergentes et pays du sud'."
+    },
+    {
+      "id": "CE_13",
+      "type": "true_false_not_given",
+      "question": "Marie Durieux a été témoin d'une scène d'humiliation lors de son séjour en Israël.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Cela n'est pas dit. Elle dit s'être rendue sur le terrain et avoir fait des entretiens, mais ne raconte pas d'anecdote personnelle spécifique observée en direct."
+    }
+  ]
+}
