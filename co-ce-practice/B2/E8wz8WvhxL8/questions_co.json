@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "type": "compréhension_orale",
+    "niveau": "B2",
+    "titre": "Aimer sa vie selon Nietzsche",
+    "consigne": null,
+    "total_questions": 13
+  },
+  "questions": [
+    {
+      "id": "CO_01",
+      "type": "single_choice",
+      "question": "Quel sentiment négatif est évoqué au tout début de l'enregistrement ?",
+      "options": [
+        "La colère envers les autres.",
+        "Le regret de ses actions passées.",
+        "La peur de l'avenir."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "On entend : 'Parfois vous êtes pris de regret. Vous vous dites que si c'était à refaire...'."
+    },
+    {
+      "id": "CO_02",
+      "type": "single_choice",
+      "question": "De quelle nationalité et de quel siècle est le philosophe cité ?",
+      "options": [
+        "Allemand du 19e siècle.",
+        "Autrichien du 20e siècle.",
+        "Allemand du 18e siècle."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "L'enregistrement précise : 'Nietzsche philosophe allemand du 19e siècle'."
+    },
+    {
+      "id": "CO_03",
+      "type": "single_choice",
+      "question": "Quelle est la condition pour dire un 'grand oui à la vie' selon Nietzsche ?",
+      "options": [
+        "Il faut espérer que demain sera meilleur.",
+        "Il faut ne rien mépriser et ne pas désirer autre chose.",
+        "Il faut oublier ses échecs."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Il faut 'dire un grand oui à la vie sans toujours désirer ou espérer autre chose et sans rien mépriser non plus'."
+    },
+    {
+      "id": "CO_04",
+      "type": "multiple_choice",
+      "question": "Quelles qualités sont nécessaires pour accepter la vie telle qu'elle est ? (2 réponses)",
+      "options": [
+        "Une âme audacieuse.",
+        "Une grande patience.",
+        "Un pas ferme.",
+        "Une intelligence supérieure."
+      ],
+      "correct_indices": [
+        0,
+        2
+      ],
+      "explanation": "Le texte cite : 'une âme forte, audacieuse' et 'l'œil calme et le pas ferme'."
+    },
+    {
+      "id": "CO_05",
+      "type": "single_choice",
+      "question": "Pourquoi l'heure de midi est-elle utilisée comme image symbolique ?",
+      "options": [
+        "C'est l'heure où l'ombre n'existe quasiment pas, empêchant de se mentir.",
+        "C'est l'heure la plus chaude de la journée.",
+        "C'est l'heure où l'on déjeune et où l'on se repose."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "Explication donnée : 'où il n'y a quasiment pas d'ombre [...] où l'on ne peut pas s'enfuir, où l'on ne peut pas se mentir'."
+    },
+    {
+      "id": "CO_06",
+      "type": "single_choice",
+      "question": "Quelle est la plus grande qualité humaine selon ce point de vue philosophique ?",
+      "options": [
+        "La charité.",
+        "La lucidité.",
+        "L'optimisme."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "On entend : 'Car la plus grande qualité, c'est la lucidité'."
+    },
+    {
+      "id": "CO_07",
+      "type": "multiple_choice",
+      "question": "Quels exemples de 'fausses consolations' sont donnés ? (2 réponses)",
+      "options": [
+        "L'argent.",
+        "La croyance qu'un Dieu gouverne nos destinées.",
+        "La croyance qu'une révolution apportera la justice.",
+        "L'amour romantique."
+      ],
+      "correct_indices": [
+        1,
+        2
+      ],
+      "explanation": "Les exemples sont : 'Croire par exemple qu'un Dieu gouverne nos destinées ou croire qu'une révolution apportera de la justice'."
+    },
+    {
+      "id": "CO_08",
+      "type": "single_choice",
+      "question": "Que faut-il écarter pour parvenir à l''Amor Fati' ?",
+      "options": [
+        "Les gens toxiques.",
+        "Les doctrines qui endorment la conscience.",
+        "Les plaisirs matériels."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Citation : 'Il faut pour cela écarter toutes les doctrines qui endorment la conscience'."
+    },
+    {
+      "id": "CO_09",
+      "type": "single_choice",
+      "question": "Que signifie réellement 'Deviens ce que tu es' dans ce contexte ?",
+      "options": [
+        "Essayer de s'améliorer chaque jour.",
+        "Admettre qu'il n'y a pas de meilleure version de soi-même.",
+        "Découvrir son talent caché."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Il s'agit 'd'admettre [...] qu'il n'y a pas de meilleure version de soi-même'."
+    },
+    {
+      "id": "CO_10",
+      "type": "single_choice",
+      "question": "Quel est le conseil final donné aux auditeurs ?",
+      "options": [
+        "De s'abonner au podcast.",
+        "De lire tous les livres de Nietzsche.",
+        "De changer de vie si elle ne leur plaît pas."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "La toute fin de l'audio dit : 'Abonnez-vous au podcast'."
+    },
+    {
+      "id": "CO_11",
+      "type": "true_false_not_given",
+      "question": "Selon Nietzsche, on peut changer son destin si on le veut vraiment.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Il parle de 'l'amour de ce qui est et qui ne pourra pas être autrement'."
+    },
+    {
+      "id": "CO_12",
+      "type": "true_false_not_given",
+      "question": "Vivre en 'plein midi' signifie vivre sans tristesse.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Vivre à midi inclut de vivre 'les moments heureux comme les épisodes malheureux'."
+    },
+    {
+      "id": "CO_13",
+      "type": "true_false_not_given",
+      "question": "Nietzsche a beaucoup souffert de problèmes de santé durant sa vie.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Cela n'est pas dit dans l'extrait (même si c'est vrai historiquement, ce n'est pas mentionné dans l'audio)."
+    }
+  ]
+}
