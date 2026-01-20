@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "type": "compréhension_écrite",
+    "niveau": "B2",
+    "titre": "Trotula de Salerne : Pionnière de la cosmétologie",
+    "consigne": null,
+    "total_questions": 13
+  },
+  "questions": [
+    {
+      "id": "CE_01",
+      "type": "single_choice",
+      "question": "Quelle particularité distinguait l'école de médecine de Salerne au Moyen-Âge ?",
+      "options": [
+        "Elle était la seule à enseigner la chirurgie esthétique.",
+        "Elle autorisait les femmes à enseigner et à pratiquer la médecine.",
+        "Elle était réservée exclusivement aux religieux."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte précise : 'particularité unique, les femmes y enseignaient et y soignaient'."
+    },
+    {
+      "id": "CE_02",
+      "type": "single_choice",
+      "question": "Quelle est la nature de l'ouvrage 'De ornatu mulierum' attribué à Trotula ?",
+      "options": [
+        "Un recueil de prières pour la beauté de l'âme.",
+        "Le premier manuel de cosmétique scientifique en Europe.",
+        "Un livre de recettes de cuisine médiévale."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Il est décrit comme 'le premier manuel de cosmétique scientifique en Europe'."
+    },
+    {
+      "id": "CE_03",
+      "type": "lexical_in_context",
+      "question": "Que signifie l'expression 'faire pâlir' dans la phrase 'sa routine beauté a de quoi faire pâlir les influenceuses' ?",
+      "options": [
+        "Rendre malade.",
+        "Susciter l'envie ou la jalousie par sa qualité.",
+        "Blanchir la peau."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Au sens figuré, cela signifie être si impressionnant que les concurrents en deviennent pâles d'envie ou paraissent incompétents à côté."
+    },
+    {
+      "id": "CE_04",
+      "type": "single_choice",
+      "question": "Quelle recommandation spécifique Trotula fait-elle concernant le savon ?",
+      "options": [
+        "Il doit être fabriqué à base de graisse animale.",
+        "Il doit être importé d'Orient.",
+        "Il doit être, si possible, d'origine française."
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Détail du texte : 'savon si possible français, précise-t-elle'."
+    },
+    {
+      "id": "CE_05",
+      "type": "multiple_choice",
+      "question": "Quels ingrédients entraient dans la composition du masque exfoliant ? (2 réponses)",
+      "options": [
+        "La cire.",
+        "Le plomb.",
+        "La résine.",
+        "Le charbon."
+      ],
+      "correct_indices": [
+        0,
+        2
+      ],
+      "explanation": "Le texte cite : 'masque exfoliant à base de résine, cire et huiles essentielles'."
+    },
+    {
+      "id": "CE_06",
+      "type": "single_choice",
+      "question": "Quel était l'objectif de l'application de la 'céruse' ?",
+      "options": [
+        "Obtenir un teint blanc.",
+        "Protéger la peau du soleil.",
+        "Colorer les lèvres en rouge."
+      ],
+      "correct_indices": [
+        0
+      ],
+      "explanation": "La céruse servait 'pour obtenir un teint blanc'."
+    },
+    {
+      "id": "CE_07",
+      "type": "inference",
+      "question": "Pourquoi peut-on dire que Trotula avait une approche précurseure de la dermatologie moderne ?",
+      "options": [
+        "Parce qu'elle utilisait déjà des lasers.",
+        "Parce qu'elle mettait en garde contre l'usage excessif de produits toxiques.",
+        "Parce qu'elle vendait ses produits très cher."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte note son 'bon réflexe' de préciser 'avec modération car il peut abîmer la peau' concernant la céruse."
+    },
+    {
+      "id": "CE_08",
+      "type": "single_choice",
+      "question": "Quelle a été la réaction de la communauté scientifique moderne face aux recettes de Trotula ?",
+      "options": [
+        "Un rejet total dû au manque d'hygiène.",
+        "Une validation de l'efficacité de certaines préparations.",
+        "Une indifférence générale."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Le texte dit : 'L'efficacité de certaines impressionne' les biologistes et pharmaciens."
+    },
+    {
+      "id": "CE_09",
+      "type": "lexical_in_context",
+      "question": "Que signifie l'adjectif 'virulent' dans 'Le discours le plus virulent vient de l'inquisiteur' ?",
+      "options": [
+        "Contagieux et malade.",
+        "Agressif et violent.",
+        "Logique et raisonné."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Un discours virulent est un discours très agressif, mordant et plein d'animosité."
+    },
+    {
+      "id": "CE_10",
+      "type": "single_choice",
+      "question": "Comment l'Église du 13ème siècle percevait-elle le maquillage ?",
+      "options": [
+        "Comme une nécessité pour trouver un mari.",
+        "Comme un double péché d'orgueil et de luxure.",
+        "Comme une pratique tolérée si elle restait discrète."
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Étienne de Bourbon qualifie le maquillage de 'double péché mortel à la fois d'orgueil et de luxure'."
+    },
+    {
+      "id": "CE_11",
+      "type": "true_false_not_given",
+      "question": "Les produits de beauté modernes n'utilisent plus aucun ingrédient mentionné par Trotula.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Le texte affirme : 'des ingrédients encore présents dans nos produits de beauté'."
+    },
+    {
+      "id": "CE_12",
+      "type": "true_false_not_given",
+      "question": "Trotula a été persécutée et condamnée par l'Inquisition.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        2
+      ],
+      "explanation": "Cela n'est pas dit. Le texte mentionne les critiques de l'Inquisition au 13e siècle, mais Trotula vivait aux 11e-12e siècles. Le texte ne dit pas qu'elle a été personnellement condamnée."
+    },
+    {
+      "id": "CE_13",
+      "type": "true_false_not_given",
+      "question": "La logique de soin (nettoyer, exfolier, nourrir) a radicalement changé depuis le Moyen-Âge.",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Cela n'est pas dit"
+      ],
+      "correct_indices": [
+        1
+      ],
+      "explanation": "Faux. Le texte dit : 'on retrouve les mêmes gestes, la même logique de soin'."
+    }
+  ]
+}
